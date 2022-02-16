@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WriteTime</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="new_user_sign_up">New User ? Sign Up</string>
+    <string name="please_click_to_enter_your_email">Please Click To Enter Your Email</string>
+    <string name="please_click_to_enter_your_password">Please Click To Enter Your Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

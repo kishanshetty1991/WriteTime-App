@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259562401137",
+    "firebase_url": "https://writetime-2eb8a-default-rtdb.firebaseio.com",
+    "project_id": "writetime-2eb8a",
+    "storage_bucket": "writetime-2eb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259562401137:android:610004ff237ec894821ad0",
+        "android_client_info": {
+          "package_name": "com.example.writetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259562401137-fk0phvgqrctstr2757hr6e9aicl4hs0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRGUZ0wSNvXaEPBCOQxK_YIrMvGL_x3fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259562401137-fk0phvgqrctstr2757hr6e9aicl4hs0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
